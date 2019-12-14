@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-## Create your own wesbite with WordPress
+## Create your own website with WordPress
 
 This is a gathering of resources to help you create a WordPress site. 
 
