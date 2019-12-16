@@ -2,5 +2,7 @@ Now it's time to start building your site! First, you need to create a WordPress
 
 # Create an Account
 
-#### Exercise
-Visit [wordpress.com](https://wordpress.com/) and create an account.
+#### Activity
+Visit [wordpress.com](https://wordpress.com/) and click "Start your website." Follow the prompts to create your site.
+
+![Screenshot of wordpress.com](https://github.com/parkmandpl/course-in-a-box/blob/gh-pages/img/wordpress/01_WordPress%20Homepage.png)
