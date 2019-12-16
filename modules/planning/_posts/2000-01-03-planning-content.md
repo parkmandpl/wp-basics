@@ -1,4 +1,5 @@
-# What Do You Want on Your Website?
+# Planning Content
+## What Do You Want on Your Website?
 
 #### Exercise
 List the information or content you want your website to display. For example:
