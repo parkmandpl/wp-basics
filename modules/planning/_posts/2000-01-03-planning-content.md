@@ -1,6 +1,6 @@
 # What Do You Want on Your Website?
 
-#### Exercise:
+#### Exercise
 List the information or content you want your website to display. For example:
 - Services or products you offer
 - Your mission/vision/values
