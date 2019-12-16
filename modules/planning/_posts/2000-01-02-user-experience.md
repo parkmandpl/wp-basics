@@ -1,8 +1,7 @@
 # User Experience
 
 Good websites are built with users in mind first. You want your website to be clear and easy to use. Your visitors need to find what they’re looking for without getting confused and leaving. That means it’s very important to know a little bit about what types of people will visit your site.
-- [Jakob's Law of Internet User Experience](https://youtu.be/wzb4mK9DiHM)
-
+- <i class="fas fa-video"></i> [Watch: Jakob's Law of Internet User Experience](https://youtu.be/wzb4mK9DiHM)
 #### Exercise
 Take a minute to think about what types of visitors you expect at your site. You won’t get it perfectly right, but try to come up with a general idea. Once your site is live, you’ll be able to use real data for this.
 
@@ -14,12 +13,12 @@ Answer questions like:
 
 ## User Experience Principles
 
-- [User Experience Basics - Usability.gov](https://www.usability.gov/what-and-why/user-experience.html)
-- [7 principles that make your website more engaging - Human Factors International on YouTube](https://youtu.be/3J85SUZFXNM)
+- <i class="fab fa-readme"></i> [Read: User Experience Basics - Usability.gov](https://www.usability.gov/what-and-why/user-experience.html)
+- <i class="fas fa-video"></i> [Watch: 7 principles that make your website more engaging - Human Factors International on YouTube](https://youtu.be/3J85SUZFXNM)
 
 #### Other Resources
-- [Web Design & Website UX - Playlist by Nielsen Norman Group](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idv9-t6zNdI_eWnfdr3Q7mvJ)
-- [10 Rules of Good UI Design to Follow](https://www.youtube.com/watch?v=RFv53AxxQAo)
+- <i class="fas fa-video"></i> [Web Design & Website UX - Playlist by Nielsen Norman Group](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idv9-t6zNdI_eWnfdr3Q7mvJ)
+- <i class="fas fa-video"></i> [10 Rules of Good UI Design to Follow](https://www.youtube.com/watch?v=RFv53AxxQAo)
 
 ## Learn by Observing
 One of the best ways to see what works best is to use other websites. You can probably think of a time you got frustrated or impatient while using a poorly designed site. On the other hand, the best web experiences are probably harder to remember, because they make things quick and simple.
