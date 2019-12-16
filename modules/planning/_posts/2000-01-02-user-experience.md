@@ -2,6 +2,7 @@
 
 Good websites are built with users in mind first. You want your website to be clear and easy to use. Your visitors need to find what they’re looking for without getting confused and leaving. That means it’s very important to know a little bit about what types of people will visit your site.
 - <i class="fas fa-video"></i> [Watch: Jakob's Law of Internet User Experience](https://youtu.be/wzb4mK9DiHM)
+
 #### Exercise
 Take a minute to think about what types of visitors you expect at your site. You won’t get it perfectly right, but try to come up with a general idea. Once your site is live, you’ll be able to use real data for this.
 
