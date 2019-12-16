@@ -33,14 +33,14 @@ Example Sites:
   - [Pie Sci Pizza](https://piescipizza.com/)
   - [Uptown BBQ](https://uptownbbqdetroit.com/)
 - Retail
-  - Detroit Fiber Works
-  - Detroit vs Everybody
-  - Love Travels Imports
+  - [Detroit Fiber Works](https://www.detroitfiberworks.com/)
+  - [Detroit vs Everybody](https://vseverybody.com/pages/homepage-2)
+  - [Love Travels Imports](http://www.lovetravelsimports.com/)
 - Nonprofits/Community Organizations
-  - Detroit Public Library
-  - Developing Despite Distance
-  - Peer 2 Peer University
+  - [Detroit Public Library](https://detroitpubliclibrary.org/)
+  - [Developing Despite Distance](https://www.developingdespitedistance.org/)
+  - [Peer 2 Peer University](https://www.p2pu.org/en/)
 - Blogs
-  - Damsel in Detroit
-  - Good Life Detroit
-  - Mr. Money Mustache
+  - [Damsel in Detroit](http://www.damselindetroit.com/)
+  - [Good Life Detroit](https://goodlifedetroit.com/)
+  - [Mr. Money Mustache](https://www.mrmoneymustache.com/)
