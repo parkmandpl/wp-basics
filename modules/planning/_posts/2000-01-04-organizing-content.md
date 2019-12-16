@@ -1,7 +1,8 @@
-# How Should Your Content Be Organized?
+# Organizing Content
+## How Should Your Content Be Ordered?
 
 ## Organizational Structures
-Most sites have a hierarchical structure, which looks like a family tree. Users start at a more broad topic and can narrow down to more specific content as they choose.
+Most sites have a hierarchical structure, which looks like a family tree. Users start at a more broad topic and can narrow down to more specific content, or jump to other "branches" as they choose.
 
 ![Tree Structure](https://www.usability.gov/sites/default/files/images/orgstructure2.jpg)
 
