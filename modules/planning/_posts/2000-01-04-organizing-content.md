@@ -13,9 +13,9 @@ Some sites have a sequential structure, meaning users must go step-by-step, foll
 
 ```Source: https://www.usability.gov/how-to-and-tools/methods/organization-structures.html```
 
-#### Further Reading:
+#### Further Reading
 - [Organization Structures - Usability.gov](https://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
 
-#### Exercise:
+#### Exercise
 Take the list of content you made and try to organize it in a way that seems helpful for users. For example, draw out a tree diagram like this:
-
+![sketches of website organizational structures](https://github.com/parkmandpl/course-in-a-box/blob/gh-pages/img/website-org-structure-sketch.jpg)
