@@ -15,7 +15,7 @@ Some sites have a sequential structure, meaning users must go step-by-step, foll
 ```Source: https://www.usability.gov/how-to-and-tools/methods/organization-structures.html```
 
 #### Further Reading
-- [Organization Structures - Usability.gov](https://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
+- <i class="fab fa-readme"></i> [Organization Structures - Usability.gov](https://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
 
 #### Exercise
 Take the list of content you made and try to organize it in a way that seems helpful for users.
