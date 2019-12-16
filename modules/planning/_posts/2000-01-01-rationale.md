@@ -1,5 +1,6 @@
 # Why Do You Want a Website?
 
+#### Exercise
 Take some time to think about your reasons for having a website. Think about why a person would visit it and what they should get out of it:
 - What message do you want to communicate to visitors?
 - What is the benefit you hope to receive from having a site?
