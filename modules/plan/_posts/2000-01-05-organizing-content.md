@@ -5,7 +5,7 @@
 There are several ways to organize your website. Here are two:
 
 #### Hierarchical Structure
-Most sites have a **hierarchical structure**, which looks like a family tree. Users start at a more broad topic and can narrow down to more specific content, or jump to other "branches" as they choose.
+Most sites have a **hierarchical structure**, which kind of looks like a family tree. Users start at a more broad topic and can narrow down to more specific content, or jump to other "branches" as they choose.
 
 ![Hierarchical Structure]({{site.baseurl}}/img/Hierarchical%20Structure.png)
 
