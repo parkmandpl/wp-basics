@@ -8,7 +8,7 @@ Most sites have a hierarchical structure, which looks like a family tree. Users 
 
 Some sites have a sequential structure, meaning users must go step-by-step, following a specific path through content.
 
-![Sequential Structure](course-in-a-box/img/Sequential%20Structure.png)
+![Sequential Structure]({{site.baseurl}}/img/Sequential%20Structure.png)
 
 #### Further Reading
 - <i class="fab fa-readme"></i> [Organization Structures - Usability.gov](https://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
