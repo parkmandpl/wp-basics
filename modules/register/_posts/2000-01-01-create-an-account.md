@@ -1,6 +1,5 @@
-Now it's time to start building your site! First, you need to create a WordPress account.
-
 # Create an Account
+Now it's time to start building your site! First, you need to create a WordPress account.
 
 #### Activity
 Visit <a href="https://wordpress.com" target="_blank">wordpress.com</a> and click "Start your website." Follow the prompts to create your site.
