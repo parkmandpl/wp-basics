@@ -2,11 +2,11 @@
 ## How Should Your Content Be Ordered?
 
 ### Organizational Structures
-Most sites have a hierarchical structure, which looks like a family tree. Users start at a more broad topic and can narrow down to more specific content, or jump to other "branches" as they choose.
+Most sites have a **hierarchical structure**, which looks like a family tree. Users start at a more broad topic and can narrow down to more specific content, or jump to other "branches" as they choose.
 
 ![Hierarchical Structure]({{site.baseurl}}/img/Hierarchical%20Structure.png)
 
-Some sites have a sequential structure, meaning users must go step-by-step, following a specific path through content.
+Some sites have a **sequential structure**, meaning users must go step-by-step, following a specific path through content.
 
 ![Sequential Structure]({{site.baseurl}}/img/Sequential%20Structure.png)
 
