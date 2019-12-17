@@ -4,15 +4,11 @@
 ## Organizational Structures
 Most sites have a hierarchical structure, which looks like a family tree. Users start at a more broad topic and can narrow down to more specific content, or jump to other "branches" as they choose.
 
-![Tree Structure](https://www.usability.gov/sites/default/files/images/orgstructure2.jpg)
-
-```Source: https://www.usability.gov/how-to-and-tools/methods/organization-structures.html```
+![Tree Structure](https://github.com/parkmandpl/course-in-a-box/blob/gh-pages/img/Hierarchical%20Structure.png)
 
 Some sites have a sequential structure, meaning users must go step-by-step, following a specific path through content.
 
-![Sequential Structure](https://www.usability.gov/sites/default/files/images/orgstructure3.jpg)
-
-```Source: https://www.usability.gov/how-to-and-tools/methods/organization-structures.html```
+![Sequential Structure](https://github.com/parkmandpl/course-in-a-box/blob/gh-pages/img/Sequential%20Structure.png)
 
 #### Further Reading
 - <i class="fab fa-readme"></i> [Organization Structures - Usability.gov](https://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
