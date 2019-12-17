@@ -4,7 +4,7 @@
 ## Organizational Structures
 Most sites have a hierarchical structure, which looks like a family tree. Users start at a more broad topic and can narrow down to more specific content, or jump to other "branches" as they choose.
 
-<img src="https://github.com/parkmandpl/course-in-a-box/blob/gh-pages/img/Hierarchical%20Structure.png" alt="hierarchical structure">
+![Hierarchical Structure]({{site.baseurl}}/img/Hierarchical%20Structure.png)
 
 Some sites have a sequential structure, meaning users must go step-by-step, following a specific path through content.
 
@@ -17,4 +17,4 @@ Some sites have a sequential structure, meaning users must go step-by-step, foll
 Take the list of content you made and try to organize it in a way that seems helpful for users.
 
 For example, draw something like one of these two diagrams:
-![sketches of website organizational structures](https://github.com/parkmandpl/course-in-a-box/blob/gh-pages/img/website-organization-sketch.jpg)
+![sketches of website organizational structures]({{site.baseurl}}/img/website-organization-sketch.jpg)
