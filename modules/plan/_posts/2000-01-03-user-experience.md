@@ -33,7 +33,7 @@ Adopt the mindset of a customer/visitor. Try to find information like business h
 - Was anything confusing or hard to use?
 - Would you return to this site, or try to accomplish your goal elsewhere (like the business’s social media, or a competitor’s site)?
 
-### Example Websites
+##### Example Websites
 - Restaurants and Cafes
   - [Nandi's Knowledge Cafe](http://www.nandisknowledgecafe.com/)
   - [Pie Sci Pizza](https://piescipizza.com/)
