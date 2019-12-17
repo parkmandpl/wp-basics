@@ -16,6 +16,7 @@ Some sites have a **sequential structure**, meaning users must go step-by-step, 
 
 #### Further Reading
 - <i class="fab fa-readme"></i> [Organization Structures - Usability.gov](https://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
+- <i class="fab fa-readme"></i> [Measure Twice, Cut Once: Planning your content first can help you choose the right theme. - WordPress.com](https://dailypost.wordpress.com/2014/09/10/measure-twice-cut-once/)
 
 #### Activity
 Take the list of content you made and try to organize it in a way that seems helpful for users.
