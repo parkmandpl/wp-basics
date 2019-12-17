@@ -21,4 +21,4 @@ Some sites have a sequential structure, meaning users must go step-by-step, foll
 Take the list of content you made and try to organize it in a way that seems helpful for users.
 
 For example, draw something like one of these two diagrams:
-![sketches of website organizational structures](course-in-a-box/blob/gh-pages/img/website-organization-sketch.jpg)
+![sketches of website organizational structures](https://github.com/parkmandpl/course-in-a-box/blob/gh-pages/img/website-organization-sketch.jpg)
