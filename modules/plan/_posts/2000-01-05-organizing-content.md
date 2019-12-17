@@ -4,7 +4,7 @@
 ## Organizational Structures
 Most sites have a hierarchical structure, which looks like a family tree. Users start at a more broad topic and can narrow down to more specific content, or jump to other "branches" as they choose.
 
-![Tree Structure](https://github.com/parkmandpl/course-in-a-box/blob/gh-pages/img/Hierarchical%20Structure.png)
+<img src="https://github.com/parkmandpl/course-in-a-box/blob/gh-pages/img/Hierarchical%20Structure.png" alt="hierarchical structure">
 
 Some sites have a sequential structure, meaning users must go step-by-step, following a specific path through content.
 
