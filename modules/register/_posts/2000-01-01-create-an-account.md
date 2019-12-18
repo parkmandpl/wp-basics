@@ -12,7 +12,7 @@ Remember, a free site needs to end with ```wordpress.com```.
 
 <img src="{{site.baseurl}}/img/wordpress/06_WordPress Domain.png" alt="screenshot of wordpress domain picker">
 
-Step 5 asks you to pick a hosting plan. For now, click the link "Start with a free site." Hosting is covered later in this course.
+Step 5 asks you to pick a hosting plan. For now, click the link **Start with a free site**. Hosting is covered later in this course.
 
 Once your site is created, you are taken to your dashboard, which looks like this:
 
