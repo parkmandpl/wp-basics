@@ -8,3 +8,10 @@ Try to **look past the photos** in the themes, and **focus on the layout** of th
 **Don’t worry** about finding the perfect theme--**you can change it later**. Just remember that if you change it *after* adding content to your site, you may have to rearrange things a bit in order to get them looking the way you want.
 
 <img src="{{site.baseurl}}/img/wordpress/Wordpress Themes.png" alt="screenshot of wordpress theme picker">
+
+#### Activity
+Choose a theme for your site.
+
+(Note that some themes require a paid account. Use the **filter** buttons to display free themes only, or to filter by specific features or layouts.)
+
+<img src="{{site.baseurl}}/img/wordpress/Wordpress Themes_Filter.png" alt="screenshot of wordpress theme picker filter">
