@@ -1,5 +1,5 @@
 # Edit a Page
-It's time to start adding content to your website! You'll learn how WordPress's editor works as you go.
+It's time to start adding content to your website! You'll learn how the WordPress editor works as you go.
 
 #### Activity
 Explore the home page editor while you follow along with the video below.
