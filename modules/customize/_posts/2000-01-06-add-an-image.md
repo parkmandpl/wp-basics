@@ -3,7 +3,7 @@
 ## Media Library
 The media library contains all of the images you can use on your website. You can add more by uploading them from your computer, [Google Photos](https://www.google.com/photos/about/), or a built-in search of free stock photos via [Pexels](https://www.pexels.com/).
 
-<img src="{{site.baseurl}}/img/wordpress/media-library-upload-options.png" alt="screenshot of media library upload options">
+<img src="{{site.baseurl}}/img/wordpress/media-library_upload-options.png" alt="screenshot of media library upload options">
 
 ### Upload from a computer
 1. In the dashboard sidebar, click **Media**.
