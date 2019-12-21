@@ -18,7 +18,7 @@ Answer questions like:
 - <i class="fas fa-video"></i> [Watch: 7 principles that make your website more engaging - Human Factors International on YouTube](https://youtu.be/3J85SUZFXNM)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/3J85SUZFXNM" frameborder="0" allowfullscreen></iframe>
 
-#### Other Resources
+#### Extra Resources
 - <i class="fas fa-video"></i> [Web Design & Website UX - Playlist by Nielsen Norman Group](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idv9-t6zNdI_eWnfdr3Q7mvJ)
 - <i class="fas fa-video"></i> [10 Rules of Good UI Design to Follow](https://www.youtube.com/watch?v=RFv53AxxQAo)
 
