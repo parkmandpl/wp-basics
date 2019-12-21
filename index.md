@@ -9,6 +9,8 @@ These days, anyone can make a website with the <a href="{{site.baseurl}}/modules
 
 This course is designed to be completed as part of a learning circle. Learning circles are free study groups for people who want to take online classes together and in-person. Find out more at [p2pu.org](https://www.p2pu.org/en/).
 
+<a class="btn btn-primary" href="{{site.baseurl}}/modules/plan/introduction/">Start Learning</a>
+
 - [Markdown](https://www.markdownguide.org/)
 - [P2PU blog](https://info.p2pu.org/2019/05/16/creating-an-open-course-with-p2pu/)
 - [Learning to (re)use open educational resources](http://www.exploerercourse.org/) by Creative Commons & Open University
