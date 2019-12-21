@@ -5,7 +5,9 @@ published: true
 
 ## Learn best practices while creating your own website
 
-This is a gathering of resources to help you create a WordPress site. 
+These days, anyone can make a website with the [abundance of user-friendly website builders out there](##). But there’s a difference between having a website and having a **great** website--one that accomplishes your specific goals by engaging visitors with user-friendly content. This course guides you through a series of activities that will help you build a WordPress site using best practices for web design.
+
+This course is designed to be completed as part of a learning circle. Learning circles are free study groups for people who want to take online classes together and in-person. Find out more at [p2pu.org](https://www.p2pu.org/en/).
 
 - [Markdown](https://www.markdownguide.org/)
 - [P2PU blog](https://info.p2pu.org/2019/05/16/creating-an-open-course-with-p2pu/)
