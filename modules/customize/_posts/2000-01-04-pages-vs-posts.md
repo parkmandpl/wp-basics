@@ -2,7 +2,7 @@
 
 Pages and posts look similar, but they have different purposes.
 
-[Watch: WordPress for Beginners 2015 Tutorial Series | Chapter 3-2: Posts vs. Pages - WebFox on YouTube](https://youtu.be/ac6t3jKKdWY)
+[Watch: WordPress for Beginners 2015 Tutorial Series Chapter 3-2: Posts vs. Pages - WebFox on YouTube](https://youtu.be/ac6t3jKKdWY)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ac6t3jKKdWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
