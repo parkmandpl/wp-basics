@@ -26,7 +26,7 @@ Answer questions like:
 One of the best ways to see what works best is to use other websites. You can probably think of a time you got frustrated or impatient while using a poorly designed site. On the other hand, the best web experiences are probably harder to remember, because they make things quick and simple.
 
 #### Activity
-Take some time to look at a few websites, and note their positive and negative features. Look for websites that are similar to yours. For example, if you own a coffee shop, look at other local coffee shops' sites.
+Take some time to look at a few websites, and note their positive and negative features. Look for websites that have similar purposes to yours. For example, if you own a coffee shop, look at other local coffee shops' sites.
 
 Adopt the mindset of a customer/visitor. Try to find information like business hours, pricing, or a bio. Answer these questions:
 - Did you easily find what you were looking for?
