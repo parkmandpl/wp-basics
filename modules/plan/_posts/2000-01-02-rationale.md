@@ -2,7 +2,9 @@
 ## Why Do You Want a Website?
 
 #### Activity
-Take some time to jot down your reasons for having a website. Think about why a person would visit your site and what they should get out of it. Optional questions to consider:
+Take some time to jot down your reasons for having a website. Think about why a person would visit your site and what they should get out of it.
+
+Here are a few optional questions to consider:
 - What message do you want to communicate to visitors?
 - What is the benefit you hope to receive from having a site?
 - Is it for a small business?
