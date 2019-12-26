@@ -22,6 +22,8 @@ You may want to use the same block on multiple pages (e.g. contact info or busin
 
 All reusable blocks are stored under the **Reusable** drop-down list in the **Add Block** menu.
 
+<img src="{{site.baseurl}}/img/wordpress/block-more-options.png" alt="block more options">
+
 ### HTML
 Wordpress.com tries its best to keep code behind the scenes, but you can use HTML in a limited way. Keep in mind that this might change the way content looks on the page. Make sure to preview your changes before saving them. Remember, there are **Undo** and **Redo** buttons if you don't like changes you make.
 
