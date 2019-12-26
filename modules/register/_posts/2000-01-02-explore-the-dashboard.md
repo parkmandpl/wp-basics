@@ -15,3 +15,9 @@ Note that some of the buttons in this area only work with paid WordPress account
 Click the icon in the upper-right corner to manage your profile and account settings.
 
 <img src="{{site.baseurl}}/img/wordpress/gravatar.png" alt="gravatar icon">
+
+#### Activity
+
+Take a few minutes to explore the different menu options in the dashboard.
+
+Some of these menu options will be covered in more detail in the next module.
