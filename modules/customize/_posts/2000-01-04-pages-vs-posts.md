@@ -1,3 +1,7 @@
+---
+title: Pages vs. Posts
+---
+
 # Pages vs. Posts
 
 Pages and posts look similar, but they have different purposes.
