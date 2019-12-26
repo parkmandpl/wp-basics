@@ -9,7 +9,7 @@ Take a minute to think about what types of visitors you expect at your site. You
 Answer questions like:
 - How tech savvy are your users?
 - Will they use a computer or mobile device?
-- Will they visit the site for quick answers, or take time to peruse? (Remember: think about what they will do, not what you hope they do.)
+- Will they visit the site for quick answers, or take time to peruse? (Remember: think about what they **will do**, not what you **hope** they do.)
 - What are their demographics? (e.g. age, gender, race, economic background, etc.)
 
 ## User Experience Principles
@@ -19,8 +19,8 @@ Answer questions like:
 <iframe width="640" height="360" src="https://www.youtube.com/embed/3J85SUZFXNM" frameborder="0" allowfullscreen></iframe>
 
 #### Extra Resources
-- <i class="fas fa-video"></i> [Web Design & Website UX - Playlist by Nielsen Norman Group](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idv9-t6zNdI_eWnfdr3Q7mvJ)
-- <i class="fas fa-video"></i> [10 Rules of Good UI Design to Follow](https://www.youtube.com/watch?v=RFv53AxxQAo)
+- <i class="fas fa-video"></i> [Web Design & Website UX Playlist - Nielsen Norman Group on YouTube](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idv9-t6zNdI_eWnfdr3Q7mvJ)
+- <i class="fas fa-video"></i> [10 Rules of Good UI Design to Follow - Elegant Themes on YouTube](https://www.youtube.com/watch?v=RFv53AxxQAo)
 
 ## Learn by Observing
 One of the best ways to see what works best is to use other websites. You can probably think of a time you got frustrated or impatient while using a poorly designed site. On the other hand, the best web experiences are probably harder to remember, because they make things quick and simple.
