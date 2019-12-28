@@ -5,13 +5,16 @@ Now that you've thought about your potential users, and observed some examples o
 - Read: [What Are the Must-Have Website Pages for Your Business? - WordPress.com](https://wordpress.com/go/web-design/what-are-the-must-have-website-pages-for-your-business/)
 
 #### Activity
-List the information or content you want your website to display. For example:
+List the information or content you want your website to display. 
+
+Here are a few examples:
 - Services or products you offer
 - Your mission/vision/values
+- Bio/history
 - Business hours
 - Contact information
 - Online store
-- Bio/history
+- Blog
 - Photos
 - Videos
 - Portfolio
