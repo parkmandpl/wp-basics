@@ -8,8 +8,8 @@ Now that you've thought about your potential users, and observed some examples o
 List the information or content you want your website to display. 
 
 Here are a few examples:
-- Services or products you offer
-- Your mission/vision/values
+- Services or products offered
+- Mission/vision/values
 - Bio/history
 - Business hours
 - Contact information
