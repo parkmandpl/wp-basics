@@ -4,7 +4,7 @@
 
 The sidebar on the left side of the dashboard contains the most commonly used buttons, especially in the **Site** and **Design** areas.
 
-<img src="{{site.baseurl}}/img/wordpress/dasboard expanded.png" alt="screenshot of wordpress dashboard sidebar">
+<img src="{{site.baseurl}}/img/wordpress/dashboard expanded.png" alt="screenshot of wordpress dashboard sidebar">
 
 From the sidebar, you can create new pages or posts, add media (like photos and videos), change the design of the site, and manage other settings.
 
