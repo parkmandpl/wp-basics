@@ -1,6 +1,6 @@
 # Resources
 
-If you plan to take a more DIY approach to your website, you don't have to figure everything out on your own. There are countless resources available, including step-by-step guides and online communities who will help you solve problems. Here are a few:
+If you plan to take a more DIY approach to your website, you don't have to figure everything out on your own. There are countless resources available, including step-by-step guides and online communities that will help you solve problems. Here are a few:
 
 ## Manuals, How-To Guides, etc.
 - [WordPress Support](https://wordpress.org/support/)
