@@ -16,6 +16,8 @@ Click the icon in the upper-right corner to manage your profile and account sett
 
 <img src="{{site.baseurl}}/img/wordpress/gravatar.png" alt="gravatar icon">
 
+<hr>
+
 #### Activity
 
 Take a few minutes to explore the different menu options in the dashboard.
