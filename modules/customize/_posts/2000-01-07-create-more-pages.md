@@ -37,5 +37,6 @@ To return to the visual view, click **More Options** again and click **edit visu
 #### Custom HTML Block
 You can use a custom HTML block to type HTML directly into the block. Find this block under the **Formatting** drop-down list (or by using the search bar).
 
+<hr>
 #### Activity
 Create more pages. Use your theme's info page and your [content diagram]({{site.baseurl}}/modules/plan/organizing-content/) to help guide you.
