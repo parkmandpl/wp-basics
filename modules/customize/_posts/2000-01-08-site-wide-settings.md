@@ -8,6 +8,8 @@ Several settings that affect the entire site can be found under the **Customize*
 <img src="{{site.baseurl}}/img/wordpress/dashboard-design-dropdown.png" alt="dashboard design drop down">
 
 ## Site Identity
+
+#### Learning Tasks
 Watch the following videos to learn how to change your site's title, tagline, logo, and icon.
 
 - [Watch: WordPress Tutorials: How to Update Your Website Title and Tagline - Automattic on YouTube](https://youtu.be/vucZ1uZ2NPo)
@@ -25,16 +27,19 @@ Watch the following videos to learn how to change your site's title, tagline, lo
 ## Menus
 
 ### Best Practices for Menus
+####Learning Task
 - [Watch: How Many Items in a Navigation Menu? - Nielsen Norman Group on YouTube](https://youtu.be/zJLQdMmYWFQ)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJLQdMmYWFQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### How To Create a Menu
+####Learning Task
 - [Watch: WordPress Tutorial: How to Create a Custom Website Menu - Automattic on YouTube](https://youtu.be/CY20IAtl2Ac)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CY20IAtl2Ac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Widgets
+####Learning Tasks
 - [Read: Widgets - Support - WordPress.com](https://en.support.wordpress.com/widgets/)
 - [Read: How to Add Widgets on WordPress Site – WordPress Tutorials – WordPress.com](https://wordpress.com/learn/get-flashy/)
 
@@ -42,3 +47,6 @@ Watch the following videos to learn how to change your site's title, tagline, lo
 #### Extra Resources
 - [Customize Your Site - Support - WordPress.com](https://en.support.wordpress.com/video-tutorials/customize-your-site/)
     - Many of the other options in the Customize menu have video tutorials on this page.
+
+#### Activity
+With the help of the above tutorials, change any settings you'd like.
