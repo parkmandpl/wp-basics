@@ -17,8 +17,9 @@ Some WordPress.com themes allow you to customize color schemes, logos, and other
 
 #### Extra Resources
 - [Beginning Graphic Design Course by GCFLearnFree.org](https://edu.gcfglobal.org/en/beginning-graphic-design/)
-- [Coolors Color Scheme Generator](https://coolors.co/app)
-- [Adobe Color Wheel Palette Generator](https://color.adobe.com/create)
+- Color Palette Generators
+    - [Coolors Color Scheme Generator](https://coolors.co/app)
+    - [Adobe Color Wheel Palette Generator](https://color.adobe.com/create)
 
 #### Activity
-Use one of the above color generators to create a color scheme for your website.
+Use one of the above generators to create a color scheme for your website. Take note of each color's hex code (example: [#31AFD4](https://www.color-hex.com/color/2978a0)).
