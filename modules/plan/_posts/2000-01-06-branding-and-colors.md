@@ -24,4 +24,4 @@ Some WordPress.com themes allow you to customize color schemes, logos, and other
     - [Paletton](http://paletton.com/)
 
 #### Activity
-Use one of the above generators to create a color scheme for your website. Take note of each color's hex code (example: [#31AFD4](https://www.color-hex.com/color/2978a0)).
+Use one of the above generators to create a color scheme for your website. Take note of each color's hex code. (Here's an example of a hex code: [#31AFD4](https://www.color-hex.com/color/2978a0).)
