@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /course-in-a-box
+baseurl: /wp-basics
 markdown: kramdown
 permalink: /:categories/:title/
 
